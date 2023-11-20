@@ -24,6 +24,11 @@ $ python -m pip install -r requirements.txt
 
 ## Usage
 
+Install the module.
+```bash
+pip install git+https://github.com/MartinKondor/jsonl.git
+```
+
 Import and define a list of objects to work with.
 ```python
 from typing import List, Any
